@@ -472,6 +472,7 @@ a:focus {
 /********** About CSS **********/
 /*******************************/
 .about {
+    
     position: relative;
     width: 100%;
     margin: -45px 0 45px 0;
@@ -498,6 +499,7 @@ a:focus {
 }
 
 .about .about-content {
+    margin-top: 50px;
     padding: 0 60px;
 }
 
@@ -1305,18 +1307,18 @@ a:focus {
 .contact {
     position: relative;
     width: 100%;
-    margin: 45px 0;
+    margin: 10px 0;
     background: #EF233C;
 }
 
 .contact .container-fluid {
-    background: url(../img/contact.jpg) left center no-repeat;
+    background: url(../img/contact.png) left no-repeat;
     background-size: contain;
 }
 
 .contact .contact-form {
     position: relative;
-    padding: 90px 0 90px 45px;
+    padding: 65px 0 65px 45px;
     background: #EF233C;
 }
 
